@@ -2,6 +2,7 @@ package org.example.conveyor2;
 
 import DTO.CreditDTO;
 import DTO.ScoringDataDTO;
+import calculation.LoanScoring;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

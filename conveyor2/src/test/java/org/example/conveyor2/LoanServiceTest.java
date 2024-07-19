@@ -2,6 +2,7 @@ package org.example.conveyor2;
 import DTO.LoanApplicationRequestDTO;
 import DTO.LoanOfferDTO;
 
+import offers.LoanService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
